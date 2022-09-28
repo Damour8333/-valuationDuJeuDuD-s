@@ -8,4 +8,6 @@ git push -u origin main
 
 
 1/initialisé les variables
+2/ajouté les fonctions
 2/pouvoir entrez le nom de chaque participant
+3/stocker les boutons dans document.querySelector
