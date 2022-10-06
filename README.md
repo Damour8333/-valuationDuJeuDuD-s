@@ -30,3 +30,4 @@ ligne 21  a 24 index.html
 
 3/10/2022 fichier script.js
 création des variables pour manipuler le DOM
+6/10/22 suite de la crétion des variables
